@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="956a5124-674a-4312-ae99-582b101effe7" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/upgrade_values.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jenkins-values.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/jenkins-values.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643024015377</updated>
-      <workItem from="1643024016684" duration="4041000" />
+      <workItem from="1643024016684" duration="4188000" />
     </task>
     <servers />
   </component>
