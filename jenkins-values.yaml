@@ -419,7 +419,7 @@ controller:
   updateStrategy: {}
 
   ingress:
-    enabled: true
+    enabled: false
     # Override for the default paths that map requests to the backend
     #paths:
     # - backend:
@@ -454,8 +454,8 @@ controller:
     # Set this path to jenkinsUriPrefix above or use annotations to rewrite path
     # path: "/jenkins"
     # configures the hostname e.g. jenkins.example.com
-    hostName: jenkins-local.com
-    tls:
+    #hostName: jenkins-local.com
+    #tls:
     # - secretName: jenkins.cluster.local
     #   hosts:
     #     - jenkins.cluster.local
